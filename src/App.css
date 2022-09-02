@@ -1,0 +1,35 @@
+.app {
+    padding: 30px;
+  }
+  
+  .todo {
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+  }
+
+  .font-w-1{
+    font-weight: 100;
+}
+.font-w-2{
+    font-weight: 200;
+}
+.font-w-3{
+    font-weight: 300;
+}
+.font-w-4{
+    font-weight: 400;
+}
+.font-w-5{
+    font-weight: 500;
+}
+.font-w-6{
+    font-weight: 600;
+}
+.font-w-7{
+    font-weight: 700;
+}
+.font-w-8{
+    font-weight: 800;
+}
